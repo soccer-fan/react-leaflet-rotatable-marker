@@ -18,5 +18,9 @@
   "dependencies": {
     "@react-leaflet/core": "^1.1.1",
     "leaflet": "^1.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/soccer-fan/react-leaflet-rotatable-marker.git"
   }
 }
