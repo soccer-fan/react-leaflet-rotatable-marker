@@ -1,0 +1,22 @@
+{
+  "name": "react-leaflet-rotatable-marker",
+  "version": "1.0.0",
+  "description": "Provides rotatable markers for Leaflet maps as first-class React components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "keywords": [
+    "react",
+    "leaflet",
+    "marker",
+    "rotatable",
+    "map"
+  ],
+  "author": "Mark Mitchell",
+  "license": "MIT",
+  "dependencies": {
+    "@react-leaflet/core": "^1.1.1",
+    "leaflet": "^1.7.1"
+  }
+}
